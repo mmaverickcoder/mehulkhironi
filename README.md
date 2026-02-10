@@ -160,6 +160,6 @@ I have a proven track record to build, innovate, and solve real industry problem
 
 ### ⭐️ *"Designing scalable architectures, delivering meaningful products, and growing strong engineering leaders."*
 
-**Open to collaborations, mentorship opportunities, and innovative projects!**
+**Engaged in engineering leadership discussions, mentorship, and community learning.**
 
 </div>
