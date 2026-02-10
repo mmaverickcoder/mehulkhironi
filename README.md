@@ -158,7 +158,7 @@ I have a proven track record to build, innovate, and solve real industry problem
 
 <div align="center">
 
-### ⭐️ *"Transforming knowledge into hands-on expertise, one engineer at a time."*
+### ⭐️ *"Designing scalable architectures, delivering meaningful products, and growing strong engineering leaders."*
 
 **Open to collaborations, mentorship opportunities, and innovative projects!**
 
