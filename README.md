@@ -20,7 +20,9 @@ Experienced Engineering Lead, Architect, and Product Owner with **18+ years** of
 > *"Knowledge means nothing without hands-on experience"* - I believe every developer needs to keep learning by building and trying POCs with new tech.
 
 🎯 **What Drives Me:**  
-I have a proven track record to build, innovate, and solve real industry problems with confidence. I'm passionate about transforming knowledge into hands-on expertise and mentoring the next generation of engineers.
+I have a proven track record to build, innovate, and solve real industry problems usng 
+Systems Thinking and First Principles with confidence. 
+I'm passionate about transforming knowledge into hands-on expertise and mentoring the next generation of engineers.
 
 ### 🏢 Current Role Highlights
 - Leading **two 9-member Scrum teams** (Development + Verification engineers)
@@ -69,10 +71,11 @@ I have a proven track record to build, innovate, and solve real industry problem
 - UML Modelling & Mind Maps for product feature design
 
 ### 🔒 Security & Architecture
+- Systems Thinking
 - Cyber Security Threat Modelling
 - Secure, scalable distributed architecture
 - Design & Architecture Review
-- Code Review & Best Practices
+- Pull Request , Code Review, Coding guidelines Best Practices
 
 ---
 
