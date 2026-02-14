@@ -8,7 +8,7 @@
 
 </div>
 
-## 👨‍💻 Engineering Lead | Solution Architect | Product Owner | Scrum Master
+## 👨‍💻 Engineering Lead | Solution Architect | Product Owner | Global Cross-Functional Team Leadership
 
 Experienced Engineering Lead, Architect, and Product Owner with **18+ years** of hands-on experience in ideation, design, and development of **.NET-based enterprise-level applications** across various product development and management roles. Currently working as **Staff Engineering Manager** at **Beckman Coulter Diagnostics- Danaher**.
 
